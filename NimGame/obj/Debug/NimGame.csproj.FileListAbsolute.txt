@@ -1,0 +1,10 @@
+C:\Users\adarw\source\repos\NimGame\NimGame\bin\Debug\NimGame.exe.config
+C:\Users\adarw\source\repos\NimGame\NimGame\bin\Debug\NimGame.exe
+C:\Users\adarw\source\repos\NimGame\NimGame\bin\Debug\NimGame.pdb
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.csprojAssemblyReference.cache
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.Form1.resources
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.Properties.Resources.resources
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.csproj.GenerateResource.cache
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.csproj.CoreCompileInputs.cache
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.exe
+C:\Users\adarw\source\repos\NimGame\NimGame\obj\Debug\NimGame.pdb
